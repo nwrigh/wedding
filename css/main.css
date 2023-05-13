@@ -1332,7 +1332,9 @@ ul.color_schemes li {
   font-size: 16px;
   line-height: 24px;
   text-transform: uppercase;
-  color: #615869; }
+  color: #615869;
+  min-width: 80px;
+ }
 
 .venue__card-data {
   font-family: "Playfair Display", serif;
@@ -1425,7 +1427,7 @@ ul.color_schemes li {
         -ms-transform: translateX(-50%);
             transform: translateX(-50%); }
   .venues__ceremony {
-    margin-bottom: 60px; } }
+    margin-bottom: 0px; } }
 
 @media only screen and (max-width: 500px) {
   .venues__card-title {
@@ -1887,4 +1889,15 @@ img{
   padding: 3px;
   border: 1px solid #fff;
   box-shadow: 0px 4px 16px #ddd;
+}
+
+
+@media only screen and (max-width: 1030px) {
+  .venues{
+    padding-top:60px!important;
+  }
+  .address__map{
+    height: auto!important;
+    margin-bottom: 30px;
+  }
 }

@@ -1883,3 +1883,8 @@ img{
   max-width: 100%;
   height: auto;
 }
+.image-link{
+  padding: 3px;
+  border: 1px solid #fff;
+  box-shadow: 0px 4px 16px #ddd;
+}

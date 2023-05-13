@@ -1238,7 +1238,9 @@ ul.color_schemes li {
 /*1.6 Venues*/
 .venues {
   padding-top: 120px;
-  padding-bottom: 112px; }
+  padding-bottom: 112px; 
+  border-bottom: 1px solid #f3f3f3;
+}
   .venues .s-title {
     padding-bottom: 48px; }
 
@@ -1736,7 +1738,9 @@ ul.color_schemes li {
 
 .support {
   padding-top: 80px;
-  padding-bottom: 80px; }
+  padding-bottom: 80px; 
+  border-bottom: 1px solid #f3f3f3;
+}
   .support .container {
     display: -webkit-box;
     display: -webkit-flex;

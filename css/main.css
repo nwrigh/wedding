@@ -1723,7 +1723,7 @@ ul.color_schemes li {
     -webkit-transform: translateX(50%);
         -ms-transform: translateX(50%);
             transform: translateX(50%);
-    width: 192px;
+    width: 150px;
     height: 1px;
     background-color: #4F3566; }
 
@@ -1733,8 +1733,8 @@ ul.color_schemes li {
   color: #615869; }
 
 .support {
-  padding-top: 112px;
-  padding-bottom: 185px; }
+  padding-top: 75px;
+  padding-bottom: 75px; }
   .support .container {
     display: -webkit-box;
     display: -webkit-flex;

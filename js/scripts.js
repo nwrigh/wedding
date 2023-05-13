@@ -2,7 +2,7 @@
 $(document).ready(function() {
 	//Coundown
 	$('.countdown').downCount({
-        date: '09/25/2020 12:00:00',
+        date: '05/27/2023 12:00:00',
         offset: +10
   });
   // Scroll to ID  

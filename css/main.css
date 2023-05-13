@@ -1710,7 +1710,7 @@ ul.color_schemes li {
   font-family: "Playfair Display", serif;
   font-weight: 700;
   font-size: 52px;
-  line-height: 78px;
+  /*line-height: 78px;*/
   text-transform: uppercase;
   color: #3C3641;
   padding-bottom: 23px;

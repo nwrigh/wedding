@@ -1719,10 +1719,10 @@ ul.color_schemes li {
     content: "";
     position: absolute;
     bottom: 0;
-    left: -50%;
-    -webkit-transform: translateX(50%);
+    left: 0%;
+    /*-webkit-transform: translateX(50%);
         -ms-transform: translateX(50%);
-            transform: translateX(50%);
+            transform: translateX(50%); */
     width: 120px;
     height: 1px;
     background-color: #4F3566; }
@@ -1759,7 +1759,9 @@ ul.color_schemes li {
   float: right; }
 
 .support__title-wrap {
-  max-width: 360px; }
+  max-width: 360px;
+  position: relative;
+ }
 
 .support__btn-wrap {
   max-width: 288px; }

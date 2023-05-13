@@ -1710,7 +1710,7 @@ ul.color_schemes li {
   font-family: "Playfair Display", serif;
   font-weight: 700;
   font-size: 52px;
-  /*line-height: 78px;*/
+  line-height: 78px;
   text-transform: uppercase;
   color: #3C3641;
   padding-bottom: 23px;
@@ -1733,8 +1733,8 @@ ul.color_schemes li {
   color: #615869; }
 
 .support {
-  padding-top: 112px;
-  padding-bottom: 185px; }
+  padding-top: 80px;
+  padding-bottom: 80px; }
   .support .container {
     display: -webkit-box;
     display: -webkit-flex;

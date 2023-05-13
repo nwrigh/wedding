@@ -1411,10 +1411,10 @@ ul.color_schemes li {
     -webkit-box-sizing: border-box;
             box-sizing: border-box; }
   .venues__card-block {
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
+    -webkit-box-pack: left;
+    -webkit-justify-content: left;
+        -ms-flex-pack: left;
+            justify-content: left; }
   .venues__card-head::after {
     left: 50%;
     -webkit-transform: translateX(-50%);

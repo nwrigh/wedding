@@ -1306,9 +1306,9 @@ ul.color_schemes li {
     background-color: #4F3566;
     bottom: 0;
     left: 0;
-    -webkit-transform: translateX(-50%);
+   /* -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
-            transform: translateX(-50%); }
+            transform: translateX(-50%);*/ }
 
 .venues__card-title {
   font-family: "Playfair Display", serif;

@@ -1872,3 +1872,8 @@ ul.color_schemes li {
     display: none; } }
 
 /* 1.8 END Footer media */
+
+img{
+  max-width: 100%;
+  height: auto;
+}

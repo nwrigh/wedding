@@ -1705,7 +1705,6 @@ ul.color_schemes li {
     width: 280px; } }
 
 /* 1.6 END RVSP media*/
-/*1.7 Support*/
 .support__title {
   font-family: "Playfair Display", serif;
   font-weight: 700;
@@ -1733,8 +1732,8 @@ ul.color_schemes li {
   color: #615869; }
 
 .support {
-  padding-top: 75px;
-  padding-bottom: 75px; }
+  padding-top: 112px;
+  padding-bottom: 185px; }
   .support .container {
     display: -webkit-box;
     display: -webkit-flex;
